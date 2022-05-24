@@ -1,15 +1,15 @@
 # constrained-clustering
 
-# Implementation
+- Implementation
 https://github.com/Behrouz-Babaki/COP-Kmeans
 
-# Pre-Processing:
+- Pre-Processing:
 1. Lowercase
 
-# Constraints so far used
+- Constraints so far used
 1. Based on LDA Topics
 
-## To Do
+- To Do
 
 1. 3rd feature - ??
 2. 4th feature - will look in the metadata (Date could be one)
