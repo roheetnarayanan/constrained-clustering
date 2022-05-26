@@ -12,5 +12,4 @@ https://github.com/Behrouz-Babaki/COP-Kmeans
 
 ##### To Do
 
-1. 3rd feature - ??
-2. 4th feature - will look in the metadata (Date could be one)
+1. 4th feature - will look in the metadata (Date could be one)
