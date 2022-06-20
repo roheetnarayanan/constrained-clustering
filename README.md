@@ -17,4 +17,4 @@ https://github.com/Behrouz-Babaki/COP-Kmeans
 
 ##### Implementation
 ##### skstab API
-[[https://github.com/Behrouz-Babaki/COP-Kmeans](https://github.com/FlorentF9/skstab)](skstab)
+[https://github.com/FlorentF9/skstab](skstab)
